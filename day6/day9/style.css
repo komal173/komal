@@ -1,0 +1,12 @@
+h1 {
+    text-shadow: 2px 2px 2px red;
+}
+
+div {
+    color: palevioletred;
+    background-color: blue;
+    text-align: center;
+    text-shadow: 2px 2px 10px black;
+    width: 40%;
+    box-shadow: 2px 2px 10px;
+}
